@@ -8,7 +8,6 @@
 # Run Locally
 
 ```
-npm install
 open index.html
 ```
 
